@@ -5,20 +5,20 @@
     </a>
     <a class="flex items-center mr-16 lg:ml-12 hover:opacity-75" href="/" aria-label="Module-House Homepage">
       <img class="w-8" src="~/assets/img/ico_phone.svg" alt="Phone Icon">
-      <h1 class="text-2xl font-bold ml-2">(096)057-74-85</h1>
+      <h1 class="text-2xl font-bold ml-2">+38 (096) 057-74-85</h1>
     </a>
   </div>
     <div class="container mx-auto min-w-900px">
-    <div class="flex justify-center mt-12">
+  <div class="flex justify-center mt-12">
     <div class="">
       <h1 class="text-3xl font-bold mb-4">Технологія будівництва</h1>
 
       <div class="flex flex-wrap mt-12 mb-28">
         <div class="w-full md:w-1/2">
-          <img class="w-full" src="~/assets/img/news.png" alt="Фото">
+          <img class="w-1/2" src="~/assets/img/news.png" alt="Фото">
         </div>
 
-        <div class="w-full md:w-1/2 mt-8 text-xl ">
+        <div class="w-full md:w-1/2 mt-8 text-l">
               <p>
                 <strong>Органік БУД</strong>
                     Модульно-каркасний будинок - це будинок, який будується із модулів, виготовлених заздалегідь у фабриці, а потім доставляється на місце будівництва та збирається на місці. Цей процес будівництва швидше і ефективніший, ніж традиційне будівництво, і надає безліч переваг. У цій статті ми розглянемо технологію будівництва модульно-каркасних будинків та переваги цього типу будівництва.
