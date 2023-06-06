@@ -40,7 +40,7 @@ useMotion(TitleAnimation, {
 });
 
 const Button1Text = ref("Buy Now");
-const Button2Text = ref("Custom Order");
+const Button2Text = ref("Call");
 if (!props.Title.includes("Model")) {
   Button1Text.value = "Вартість";
   Button2Text.value = "Зателефонувати";
