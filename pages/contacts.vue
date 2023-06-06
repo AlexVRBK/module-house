@@ -54,7 +54,7 @@
       </div>
     </div>
     <div class="fixed bottom-0 mt-3 left-0 right-0 z-10 ">
-      <Footer />
+      
     </div>
   </div>
 </template>

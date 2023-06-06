@@ -45,6 +45,8 @@ if (!props.Title.includes("Model")) {
   Button1Text.value = "Вартість";
   Button2Text.value = "Зателефонувати";
 }
+
+
 </script>
 
 <template>
